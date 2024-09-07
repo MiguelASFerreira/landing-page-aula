@@ -6,6 +6,13 @@
 
 Este é um dos projetos feitos durante a minha pós-graduação na Rocketseat, 1° projeto onde foi feito responsabilidade usando método Mobile-first
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- Git e Github
+
 ## Requisitos para Rodar o Projeto
  - Nenhum
 ## Como Rodar o Projeto
