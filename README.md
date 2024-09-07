@@ -2,7 +2,7 @@
 
 > Status do Projeto: Concluído
 
-![Print da Tela](image.png)
+![Print da Tela - Zingen](https://github.com/user-attachments/assets/1c849986-1d2b-4e2e-9619-d849e5de4b43)
 
 Este é um dos projetos feitos durante a minha pós-graduação na Rocketseat, 1° projeto onde foi feito responsabilidade usando método Mobile-first
 
